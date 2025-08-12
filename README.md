@@ -3,15 +3,11 @@
 
 **Goal:** Enable businesses to proactively identify at-risk customers and take retention measures.
 
-Key Features:
-
-Data preprocessing and feature engineering for improved model performance
-
-Training and evaluation of a Random Forest Classifier
-
-Visualization of feature importance for interpretability
-
-Performance: Achieved 76% accuracy on the test dataset.
+**Key Features:**
+ -  Data preprocessing and feature engineering for improved model performance.
+ -  Training and evaluation of a Random Forest Classifier
+ -  Visualization of feature importance for interpretability
+ -  Performance: Achieved 76% accuracy on the test dataset.
 
 ---
 
