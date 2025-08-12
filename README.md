@@ -1,7 +1,7 @@
-Customer Churn Prediction
-This project uses a Random Forest Classifier to predict whether a customer is likely to leave a business (churn) based on historical behavioral and demographic data.
+## Customer Churn Prediction
+ -   This project uses a Random Forest Classifier to predict whether a customer is likely to leave a business (churn) based on historical behavioral and demographic data.
 
-Goal: Enable businesses to proactively identify at-risk customers and take retention measures.
+**Goal:** Enable businesses to proactively identify at-risk customers and take retention measures.
 
 Key Features:
 
